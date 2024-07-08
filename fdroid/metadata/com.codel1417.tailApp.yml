@@ -1,0 +1,22 @@
+AntiFeatures: Tracking
+AuthorName: OpenTails
+Categories:
+    - Connectivity
+CurrentVersion: 1.0.6
+CurrentVersionCode: 1597
+Description: |
+    Bring your Tail Company gear to life with our brand new app!
+
+    - Designed to control MiTail, EarGear, FlutterWings and MiTail Mini.
+    - Give your tails, ears and wings life and connect all your gear at the same time!
+    - The app handles updates when we release new firmware.
+    - Features a massively improved interface, new triggers, and more ways to personalize it too.
+    - New features include customisable app colors, sound playback, easier updates, and favourite moves
+
+    The app also includes full instructions for your MiTail, EarGear, FlutterWings and MiTail Mini too. (Have a good read before using them for the best experience!)
+IssueTracker: ""
+License: GPL-3.0
+Name: The Tail Company App
+SourceCode: https://github.com/OpenTails/tail_app
+Summary: "\U0001F98A An app to control Tail Company gear"
+WebSite: ""

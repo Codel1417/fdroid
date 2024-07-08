@@ -1,1 +1,210 @@
-{"repo": {"timestamp": 1720475425000, "version": 20002, "name": "The Tail Company App F-Droid repo", "icon": "icon.png", "address": "https://raw.githubusercontent.com/Codel1417/fdroid/main/fdroid/repo", "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
+{
+  "repo": {
+    "timestamp": 1720475845000,
+    "version": 20002,
+    "name": "The Tail Company App F-Droid repo",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/Codel1417/fdroid/main/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "antiFeatures": [
+        "Tracking"
+      ],
+      "authorName": "OpenTails",
+      "categories": [
+        "Connectivity"
+      ],
+      "suggestedVersionName": "1.0.6",
+      "suggestedVersionCode": "1597",
+      "description": "Bring your Tail Company gear to life with our brand new app!\n\n- Designed to control MiTail, EarGear, FlutterWings and MiTail Mini.\n- Give your tails, ears and wings life and connect all your gear at the same time!\n- The app handles updates when we release new firmware.\n- Features a massively improved interface, new triggers, and more ways to personalize it too.\n- New features include customisable app colors, sound playback, easier updates, and favourite moves\n\nThe app also includes full instructions for your MiTail, EarGear, FlutterWings and MiTail Mini too. (Have a good read before using them for the best experience!)\n",
+      "license": "GPL-3.0",
+      "name": "The Tail Company App",
+      "sourceCode": "https://github.com/OpenTails/tail_app",
+      "summary": "\ud83e\udd8a An app to control Tail Company gear",
+      "added": 1720475840000,
+      "packageName": "com.codel1417.tailApp",
+      "lastUpdated": 1720475840000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "## What's Changed\n* Translations update from Weblate by @Codel1417 in https://github.com/OpenTails/tail_app/pull/6\n* Bump go_router from 13.0.1 to 13.1.0 by @dependabot in https://github.com/OpenTails/tail_app/pull/10\n* Bump actions/checkout from 3 to 4 in /.github/workflows by @dependabot in https://github.com/OpenTails/tail_app/pull/7\n* Bump custom_lint from 0.5.8 to 0.5.11 by @dependabot in https://github.com/OpenTails/tail_app/pull/9\n* Bump actions/setup-java from 2 to 4 in /.github/workflow"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "com.codel1417.tailApp": [
+      {
+        "added": 1720475840000,
+        "apkName": "tailApp_1.0.6.apk",
+        "hash": "129121f641e8e0498b3c61e155ddae07abdd6ff37005a41b9ccb417157ae3c02",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.codel1417.tailApp",
+        "sig": "61289bd2d7ecbd815e38f1e1b0ae4105",
+        "signer": "8addb4d6ceeb388f06a10cd058fba3ae31ce7e804bba6a1a94dae237fd083a8e",
+        "size": 101835720,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_SCAN",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            30
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            30
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACTIVITY_RECOGNITION",
+            null
+          ],
+          [
+            "android.hardware.sensor.proximity",
+            null
+          ],
+          [
+            "android.hardware.bluetooth_le",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE",
+            22
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.codel1417.tailApp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            33
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ]
+        ],
+        "versionCode": 1597,
+        "versionName": "1.0.6"
+      }
+    ]
+  }
+}
