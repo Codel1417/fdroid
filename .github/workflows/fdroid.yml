@@ -11,7 +11,8 @@ jobs:
   apps:
     name: "Generate repo from apps listing"
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
 
@@ -43,4 +44,4 @@ jobs:
       - name: Run update script
         run: bash update.sh 2>&1
         env:
-          GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+          GH_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
