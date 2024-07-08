@@ -1,5 +1,5 @@
 tailApp:
-  git: https://github.com/OpenTails/tail_appy
+  git: https://github.com/OpenTails/tail_app
   name: "The Tail Company App"
   description: |
     Bring your Tail Company gear to life with our brand new app!
