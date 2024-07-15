@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1720925580000,
+    "timestamp": 1721012053000,
     "version": 20002,
     "name": "The Tail Company App F-Droid repo",
     "icon": "icon.png",
@@ -27,9 +27,9 @@
       "name": "The Tail Company App",
       "sourceCode": "https://github.com/OpenTails/tail_app",
       "summary": "\ud83e\udd8a An app to control Tail Company gear",
-      "added": 1720925575000,
+      "added": 1721012048000,
       "packageName": "com.codel1417.tailApp",
-      "lastUpdated": 1720925575000,
+      "lastUpdated": 1721012048000,
       "localized": {
         "en-US": {
           "whatsNew": "## What's Changed\n* Translations update from Weblate by @Codel1417 in https://github.com/OpenTails/tail_app/pull/6\n* Bump go_router from 13.0.1 to 13.1.0 by @dependabot in https://github.com/OpenTails/tail_app/pull/10\n* Bump actions/checkout from 3 to 4 in /.github/workflows by @dependabot in https://github.com/OpenTails/tail_app/pull/7\n* Bump custom_lint from 0.5.8 to 0.5.11 by @dependabot in https://github.com/OpenTails/tail_app/pull/9\n* Bump actions/setup-java from 2 to 4 in /.github/workflow"
@@ -40,7 +40,7 @@
   "packages": {
     "com.codel1417.tailApp": [
       {
-        "added": 1720925575000,
+        "added": 1721012048000,
         "apkName": "tailApp_1.0.6.apk",
         "hash": "129121f641e8e0498b3c61e155ddae07abdd6ff37005a41b9ccb417157ae3c02",
         "hashType": "sha256",
