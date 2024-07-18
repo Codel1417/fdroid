@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Codel1417/fdroid/main/fdroid/repo",
-    "timestamp": 1721184763000
+    "timestamp": 1721271123000
   },
   "packages": {
     "com.codel1417.tailApp": {
       "metadata": {
-        "added": 1721184758000,
+        "added": 1721271118000,
         "categories": [
           "Connectivity"
         ],
-        "lastUpdated": 1721184758000,
+        "lastUpdated": 1721271118000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/OpenTails/tail_app",
         "authorName": "OpenTails",
@@ -40,7 +40,7 @@
       },
       "versions": {
         "129121f641e8e0498b3c61e155ddae07abdd6ff37005a41b9ccb417157ae3c02": {
-          "added": 1721184758000,
+          "added": 1721271118000,
           "file": {
             "name": "/tailApp_1.0.6.apk",
             "sha256": "129121f641e8e0498b3c61e155ddae07abdd6ff37005a41b9ccb417157ae3c02",
