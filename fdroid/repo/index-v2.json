@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Codel1417/fdroid/main/fdroid/repo",
-    "timestamp": 1725418551000
+    "timestamp": 1725505065000
   },
   "packages": {
     "com.codel1417.tailApp": {
       "metadata": {
-        "added": 1725418547000,
+        "added": 1725505059000,
         "categories": [
           "Connectivity"
         ],
-        "lastUpdated": 1725418547000,
+        "lastUpdated": 1725505060000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/OpenTails/tail_app",
         "authorName": "OpenTails",
@@ -39,8 +39,99 @@
         "preferredSigner": "8addb4d6ceeb388f06a10cd058fba3ae31ce7e804bba6a1a94dae237fd083a8e"
       },
       "versions": {
+        "9903169c4e0941922a84c140ebe783a024a93879c7e9a0a7adf5aa296ad1265a": {
+          "added": 1725505060000,
+          "file": {
+            "name": "/tailApp_1.0.9.apk",
+            "sha256": "9903169c4e0941922a84c140ebe783a024a93879c7e9a0a7adf5aa296ad1265a",
+            "size": 41913724
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.9",
+            "versionCode": 1784,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "8addb4d6ceeb388f06a10cd058fba3ae31ce7e804bba6a1a94dae237fd083a8e"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_SCAN"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "android.permission.BLUETOOTH",
+                "maxSdkVersion": 30
+              },
+              {
+                "name": "android.permission.BLUETOOTH_ADMIN",
+                "maxSdkVersion": 30
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION",
+                "maxSdkVersion": 30
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACTIVITY_RECOGNITION"
+              },
+              {
+                "name": "android.hardware.sensor.proximity"
+              },
+              {
+                "name": "android.hardware.bluetooth_le"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "com.codel1417.tailApp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
+          }
+        },
         "129121f641e8e0498b3c61e155ddae07abdd6ff37005a41b9ccb417157ae3c02": {
-          "added": 1725418547000,
+          "added": 1725505059000,
           "file": {
             "name": "/tailApp_1.0.6.apk",
             "sha256": "129121f641e8e0498b3c61e155ddae07abdd6ff37005a41b9ccb417157ae3c02",

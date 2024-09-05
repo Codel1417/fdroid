@@ -6,7 +6,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/OpenTails/tail_app"><img src="fdroid/repo/icons/" alt="The Tail Company App icon" width="36px" height="36px"></a> | [**The Tail Company App**](https://github.com/OpenTails/tail_app) | 🦊 An app to control Tail Company gear | 1.0.6 (1597) |
+| <a href="https://github.com/OpenTails/tail_app"><img src="fdroid/repo/icons/" alt="The Tail Company App icon" width="36px" height="36px"></a> | [**The Tail Company App**](https://github.com/OpenTails/tail_app) | 🦊 An app to control Tail Company gear | 1.0.9 (1784) |
 <!-- end apps table -->
 
 ### How to use

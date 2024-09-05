@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1725418551000,
+    "timestamp": 1725505065000,
     "version": 20002,
     "name": "The Tail Company App F-Droid repo",
     "icon": "icon.png",
@@ -20,19 +20,19 @@
       "categories": [
         "Connectivity"
       ],
-      "suggestedVersionName": "1.0.6",
-      "suggestedVersionCode": "1597",
+      "suggestedVersionName": "1.0.9",
+      "suggestedVersionCode": "1784",
       "description": "Bring your Tail Company gear to life with our brand new app!\n\n- Designed to control MiTail, EarGear, FlutterWings and MiTail Mini.\n- Give your tails, ears and wings life and connect all your gear at the same time!\n- The app handles updates when we release new firmware.\n- Features a massively improved interface, new triggers, and more ways to personalize it too.\n- New features include customisable app colors, sound playback, easier updates, and favourite moves\n\nThe app also includes full instructions for your MiTail, EarGear, FlutterWings and MiTail Mini too. (Have a good read before using them for the best experience!)\n",
       "license": "GPL-3.0",
       "name": "The Tail Company App",
       "sourceCode": "https://github.com/OpenTails/tail_app",
       "summary": "\ud83e\udd8a An app to control Tail Company gear",
-      "added": 1725418547000,
+      "added": 1725505059000,
       "packageName": "com.codel1417.tailApp",
-      "lastUpdated": 1725418547000,
+      "lastUpdated": 1725505060000,
       "localized": {
         "en-US": {
-          "whatsNew": "## What's Changed\n* Translations update from Weblate by @Codel1417 in https://github.com/OpenTails/tail_app/pull/6\n* Bump go_router from 13.0.1 to 13.1.0 by @dependabot in https://github.com/OpenTails/tail_app/pull/10\n* Bump actions/checkout from 3 to 4 in /.github/workflows by @dependabot in https://github.com/OpenTails/tail_app/pull/7\n* Bump custom_lint from 0.5.8 to 0.5.11 by @dependabot in https://github.com/OpenTails/tail_app/pull/9\n* Bump actions/setup-java from 2 to 4 in /.github/workflow"
+          "whatsNew": "## What's Changed\n* Bump com.android.application from 8.5.0 to 8.5.1 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/231\n* Bump io.sentry.android.gradle from 4.9.0 to 4.10.0 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/233\n* Bump io.sentry.android.gradle from 4.10.0 to 4.11.0 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/241\n* Bump org.jetbrains.kotlin:kotlin-stdlib from 2.0.0 to 2.0.10 in /android by @dependabot in "
         }
       }
     }
@@ -40,7 +40,101 @@
   "packages": {
     "com.codel1417.tailApp": [
       {
-        "added": 1725418547000,
+        "added": 1725505060000,
+        "apkName": "tailApp_1.0.9.apk",
+        "hash": "9903169c4e0941922a84c140ebe783a024a93879c7e9a0a7adf5aa296ad1265a",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.codel1417.tailApp",
+        "sig": "61289bd2d7ecbd815e38f1e1b0ae4105",
+        "signer": "8addb4d6ceeb388f06a10cd058fba3ae31ce7e804bba6a1a94dae237fd083a8e",
+        "size": 41913724,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_SCAN",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            28
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            30
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            30
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            30
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACTIVITY_RECOGNITION",
+            null
+          ],
+          [
+            "android.hardware.sensor.proximity",
+            null
+          ],
+          [
+            "android.hardware.bluetooth_le",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.codel1417.tailApp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1784,
+        "versionName": "1.0.9"
+      },
+      {
+        "added": 1725505059000,
         "apkName": "tailApp_1.0.6.apk",
         "hash": "129121f641e8e0498b3c61e155ddae07abdd6ff37005a41b9ccb417157ae3c02",
         "hashType": "sha256",

@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1725505065000
+  },
+  "packages": {
+    "com.codel1417.tailApp": {
+      "versions": {
+        "9903169c4e0941922a84c140ebe783a024a93879c7e9a0a7adf5aa296ad1265a": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

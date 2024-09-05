@@ -1,0 +1,11 @@
+## What's Changed
+* Bump com.android.application from 8.5.0 to 8.5.1 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/231
+* Bump io.sentry.android.gradle from 4.9.0 to 4.10.0 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/233
+* Bump io.sentry.android.gradle from 4.10.0 to 4.11.0 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/241
+* Bump org.jetbrains.kotlin:kotlin-stdlib from 2.0.0 to 2.0.10 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/240
+* Bump org.jetbrains.kotlin.android from 2.0.0 to 2.0.10 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/239
+* Bump org.jetbrains.kotlin:kotlin-stdlib from 2.0.10 to 2.0.20 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/244
+* Bump org.jetbrains.kotlin.android from 2.0.10 to 2.0.20 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/243
+
+
+**Full Changelog**: https://github.com/OpenTails/tail_app/compare/1.0.6...1.0.9
