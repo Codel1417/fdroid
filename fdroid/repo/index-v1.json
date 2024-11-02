@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1730430442000,
+    "timestamp": 1730516406000,
     "version": 20002,
     "name": "The Tail Company App F-Droid repo",
     "icon": "icon.png",
@@ -27,9 +27,9 @@
       "name": "The Tail Company App",
       "sourceCode": "https://github.com/OpenTails/tail_app",
       "summary": "\ud83e\udd8a An app to control Tail Company gear",
-      "added": 1730430436000,
+      "added": 1730516401000,
       "packageName": "com.codel1417.tailApp",
-      "lastUpdated": 1730430437000,
+      "lastUpdated": 1730516402000,
       "localized": {
         "en-US": {
           "whatsNew": "## What's Changed\n* Bump com.android.application from 8.5.0 to 8.5.1 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/231\n* Bump io.sentry.android.gradle from 4.9.0 to 4.10.0 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/233\n* Bump io.sentry.android.gradle from 4.10.0 to 4.11.0 in /android by @dependabot in https://github.com/OpenTails/tail_app/pull/241\n* Bump org.jetbrains.kotlin:kotlin-stdlib from 2.0.0 to 2.0.10 in /android by @dependabot in "
@@ -40,7 +40,7 @@
   "packages": {
     "com.codel1417.tailApp": [
       {
-        "added": 1730430437000,
+        "added": 1730516402000,
         "apkName": "tailApp_1.0.9.apk",
         "hash": "9903169c4e0941922a84c140ebe783a024a93879c7e9a0a7adf5aa296ad1265a",
         "hashType": "sha256",
@@ -134,7 +134,7 @@
         "versionName": "1.0.9"
       },
       {
-        "added": 1730430436000,
+        "added": 1730516401000,
         "apkName": "tailApp_1.0.6.apk",
         "hash": "129121f641e8e0498b3c61e155ddae07abdd6ff37005a41b9ccb417157ae3c02",
         "hashType": "sha256",
