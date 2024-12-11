@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1732158282000,
+    "timestamp": 1733886516000,
     "version": 20002,
     "name": "The Tail Company App F-Droid repo",
     "icon": "icon.png",
@@ -12,6 +12,17 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "categories",
+      "added": 1733886511000,
+      "packageName": "74c22a4727735d3750511c186017a4c82206d7c05bfabf11642c84b02be34187",
+      "lastUpdated": 1733886511000
+    },
     {
       "antiFeatures": [
         "Tracking"
@@ -38,6 +49,17 @@
     }
   ],
   "packages": {
+    "74c22a4727735d3750511c186017a4c82206d7c05bfabf11642c84b02be34187": [
+      {
+        "added": 1733886511000,
+        "apkName": "categories.txt",
+        "hash": "74c22a4727735d3750511c186017a4c82206d7c05bfabf11642c84b02be34187",
+        "hashType": "sha256",
+        "packageName": "74c22a4727735d3750511c186017a4c82206d7c05bfabf11642c84b02be34187",
+        "size": 13,
+        "versionName": "74c22a4"
+      }
+    ],
     "com.codel1417.tailApp": [
       {
         "added": 1732158278000,

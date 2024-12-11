@@ -14,9 +14,47 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Codel1417/fdroid/main/fdroid/repo",
-    "timestamp": 1732158282000
+    "timestamp": 1733886516000,
+    "categories": {
+      "Connectivity": {
+        "name": {
+          "en-US": "Connectivity"
+        }
+      },
+      "fdroid": {
+        "name": {
+          "en-US": "fdroid"
+        }
+      }
+    }
   },
   "packages": {
+    "74c22a4727735d3750511c186017a4c82206d7c05bfabf11642c84b02be34187": {
+      "metadata": {
+        "added": 1733886511000,
+        "categories": [
+          "fdroid"
+        ],
+        "lastUpdated": 1733886511000,
+        "name": {
+          "en-US": "categories"
+        }
+      },
+      "versions": {
+        "74c22a4727735d3750511c186017a4c82206d7c05bfabf11642c84b02be34187": {
+          "added": 1733886511000,
+          "file": {
+            "name": "/categories.txt",
+            "sha256": "74c22a4727735d3750511c186017a4c82206d7c05bfabf11642c84b02be34187",
+            "size": 13
+          },
+          "manifest": {
+            "versionName": "74c22a4",
+            "versionCode": 0
+          }
+        }
+      }
+    },
     "com.codel1417.tailApp": {
       "metadata": {
         "added": 1732158277000,
